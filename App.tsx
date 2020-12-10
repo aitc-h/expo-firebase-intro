@@ -13,7 +13,7 @@ function initFirebase() {
   // Your web app's Firebase configuration
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
   var firebaseConfig = {
-    apiKey: "AIzaSyBX_dlArqdEjrO4qMRAbYzkPFHAOFkTQXo",
+    apiKey: "---",
     authDomain: "expo1-7a220.firebaseapp.com",
     databaseURL: "https://expo1-7a220.firebaseio.com",
     projectId: "expo1-7a220",
